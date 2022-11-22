@@ -1,0 +1,1 @@
+This week code was written to check whether an input matrix is magic or not. The ``magic_square.h`` header file contains the definition of the ``isMagicSquare`` function which checks if the input matrix is magic. To compile, use ``gcc -o magicsquare main.c``.  
