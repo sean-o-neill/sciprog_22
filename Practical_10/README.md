@@ -1,0 +1,1 @@
+This week, code was written to solve the Tower of Hanoi problem recursively. To compile, use ``gcc -o hanoi hanoi.c`` and to run use ``./hanoi``. Please change the value of ``n`` in the ``main`` function to the number of discs required.
